@@ -49,21 +49,24 @@ I am a highly motivated and detail-oriented **Software Developer**, passionate a
 
 ---
 
+## 🚀 INDEPENDENT CONTRIBUTIONS
+
+**School Management System**
+- **Objective:** Streamline school administrative tasks through a Java-based application.
+- **Key Features:** Efficient teacher salary management, student fee tracking, and financial monitoring via a user-friendly console interface.
+- **Technologies Used:**Java, Git for version control.
+
 ## 🌟 Featured Projects
 
-### **1. Tolling System APIs**
-- **Description:** Built REST APIs for tolling systems using **Spring Boot** and **Java**.
-- **Highlights:** Optimized backend performance, integrated Docker for deployment, and implemented NoSQL data management with MongoDB.
-
-### **2. Netflix Homepage Replica**
+### **1. Netflix Homepage Replica**
 - **Description:** Developed a static replica of Netflix’s homepage using **HTML** and **CSS**.
 - **Highlights:** Enhanced frontend skills by replicating a high-visibility design.
 
-### **3. Responsive Cake Shop Website**
+### **2. Responsive Cake Shop Website**
 - **Description:** Designed and built a responsive website for a cake shop using **HTML**, **CSS**, and **JavaScript**.
 - **Highlights:** Delivered a modern UI/UX experience.
 
-### **4. Personal Portfolio Website**
+### **3. Personal Portfolio Website**
 - **Description:** Created a personal portfolio showcasing projects and skills using **HTML** and **CSS**.
 
 ---
